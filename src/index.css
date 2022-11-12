@@ -38,3 +38,7 @@ button{
   cursor: pointer; 
  }
 
+ button{
+  cursor:all-scroll 
+ }
+
